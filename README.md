@@ -6,7 +6,58 @@
 ![Downloads](https://img.shields.io/github/downloads/unytco/circulo/total?style=flat-square&color=green)
 ![License](https://img.shields.io/github/license/unytco/circulo?style=flat-square)
 
-A mutual credit accounting software with smart agreements built on holochain
+### A Playful Take on p2p Payments
+
+<div align="left">
+<h3>
+
+</h3>
+<h3> 
+Introduction
+</h3>
+<p>
+Circulo is a generosity oriented peer-to-peer payments system, built using the Unyt mutual credit accounting engine. 
+</p>
+<p>
+Everyone starts with an account balance of zero and a small credit limit. Your credit limit determines the max you can spend below zero. 
+</p>
+<p>
+Circulo makes use of a very simple credit algorithm: every time you send someone some units, your credit limit increases by 10.  This is a very simple, and easily gameable credit algorithm. It also makes it easy for people to play with it.
+</p>
+
+<p>
+In Circulo, as soon as you send someone units, your account will be debited.  However, the receiver's account balance won't include those units until they exercize their own agency and choose to accept them. If they never accept them, they remain available for them to collect. No one else is able to claim them.
+</p>
+<p>
+By anchoring activity in the agency of the participants themselves, Circulo opens up some interesting new efficiencies and possibilities. These will get explored in more detail in future releases.
+</p>
+<h3>
+Testing
+</h3> 
+<p>
+Circulo is a toddler as far as software goes. But feel free to try and trip it up. 
+</p>
+<p>
+If you see an error, please <a href="https://github.com/unytco/circulo/issues">report it as an issue</a> in this repo (if not already reported). 
+</p>
+<p>
+To get past an error:
+
+1. Reload: When in doubt try: Right click > Reload
+2. Restart: When a few reload tries don't work, please quit and restart
+3. Wait: making yourself a cup of tea resolves most things
+
+</p>
+<p>
+We are using software called Sentry to help track errors so we can better understand their frequency and context. But you reporting issues is helpful.
+</p>
+
+<p>
+
+</p>
+</div>
+
+
 
 </div>
 
