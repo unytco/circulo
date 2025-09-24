@@ -1,0 +1,29 @@
+---
+name: 🐞 Bug Report simplified
+about: Report a problem so we can fix it
+labels: bug
+---
+
+## Bug Summary
+A clear and concise description of the bug.
+
+## Steps to Reproduce
+1. Go to '...'
+2. Click on '...'
+3. See error
+
+## Expected Behavior
+What you expected to happen.
+
+## Actual Behavior
+What actually happened.
+
+## Screenshots / Logs
+If applicable, add screenshots or paste error logs here.
+
+## Environment
+- OS: [e.g. Windows, Mac, Linux]
+- Version: [e.g. v0.1.0]
+
+## Additional Context
+Add any other context about the problem here.
