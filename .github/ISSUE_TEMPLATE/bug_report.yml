@@ -33,12 +33,11 @@ body:
     validations:
       required: true
 
-  - type: input
+  - type: dropdown
     id: platform
     attributes:
       label: Platform
       description: What platform are you running on?
-      placeholder: Windows 
       options:
         - Windows
         - MacOS
@@ -47,8 +46,8 @@ body:
     validations:
       required: true
 
-  - type: textarea- 
-    id: error log
+  - type: textarea
+    id: error_log
     attributes:
       label: Error Log
       description: Please include the full error log that you will find when you click the copy button on the error message
@@ -58,12 +57,12 @@ body:
         ...
     validations:
       required: false
-  - id: screenshot
+
+  - type: textarea
+    id: screenshot
     attributes:
       label: Screenshot
       description: Please include a screenshot of the error
-      placeholder: |
-        Screenshot:
-        ...
+      placeholder: Screenshot goes here
     validations:
       required: false
