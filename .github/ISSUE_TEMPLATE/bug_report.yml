@@ -7,7 +7,7 @@ body:
     attributes:
       label: Bug Summary
       description: Briefly describe the issue
-      placeholder: Ex: App crashes when clicking "Save"
+      placeholder: Ex - App crashes when clicking "Save"
     validations:
       required: true
 

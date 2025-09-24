@@ -1,7 +1,7 @@
 ---
-name: 🐞 Bug Report simplified
-about: Report a problem so we can fix it
-labels: bug
+name: 🐞 Bug Report
+description: Report a problem so we can fix it
+labels: [bug]
 ---
 
 ## Bug Summary
