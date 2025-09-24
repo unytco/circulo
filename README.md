@@ -57,8 +57,6 @@ We are using software called Sentry to help track errors so we can better unders
 </p>
 </div>
 
-
-
 </div>
 
 ## Downloads
