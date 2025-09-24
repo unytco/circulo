@@ -1,0 +1,69 @@
+name: 🐞 Bug Report
+description: Report a bug so we can fix it
+labels: [bug]
+body:
+  - type: input
+    id: summary
+    attributes:
+      label: Bug Summary
+      description: Briefly describe the issue
+      placeholder: Ex: App crashes when clicking "Save"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How do we reproduce the bug?
+      placeholder: |
+        1. Open the app
+        2. Go to settings
+        3. Click save
+        4. See error
+    validations:
+      required: true
+
+  - type: input
+    id: version
+    attributes:
+      label: App Version
+      description: What version are you running?
+      placeholder: v0.1.0
+    validations:
+      required: true
+
+  - type: input
+    id: platform
+    attributes:
+      label: Platform
+      description: What platform are you running on?
+      placeholder: Windows 
+      options:
+        - Windows
+        - MacOS
+        - Linux
+        - Android
+    validations:
+      required: true
+
+  - type: textarea- 
+    id: error log
+    attributes:
+      label: Error Log
+      description: Please include the full error log that you will find when you click the copy button on the error message
+      placeholder: |
+        Error: App crashed when clicking "Save"
+        Stack trace:
+        ...
+    validations:
+      required: false
+  - id: screenshot
+    attributes:
+      label: Screenshot
+      description: Please include a screenshot of the error
+      placeholder: |
+        Screenshot:
+        ...
+    validations:
+      required: false
