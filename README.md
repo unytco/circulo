@@ -63,33 +63,34 @@ We are using software called Sentry to help track errors so we can better unders
 
 <div align="center">
 
+### Zero Arc releases
+
 <table>
 <tr>
 <td width="25%" align="center">
 
 **Windows**
 
-[MSI Installer (x64)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_x64_en-US.msi)
+[MSI Installer (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_x64_windows.msi)
 
-[EXE Setup (x64)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_x64-setup.exe)
+[EXE Setup (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_x64_windows.exe)
 
 </td>
 <td width="25%" align="center">
 
 **MacOS**
 
-[Silicon (arm64)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_aarch64.dmg)
-
-[Intel (x64)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_x64.dmg)
+[Silicon (arm64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_aarch64_darwin)
+[Intel (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_x64_darwin.dmg)
 
 </td>
 <td width="25%" align="center">
 
 **Linux**
 
-[AppImage (Universal)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_amd64.AppImage)
+[AppImage (Universal)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_amd64_linux.AppImage)
 
-[Debian Package (.deb)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_amd64.deb)
+[Debian Package (.deb)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_amd64_linux.deb)
 
 </td>
 <!-- <td width="25%" align="center">
@@ -101,6 +102,38 @@ We are using software called Sentry to help track errors so we can better unders
 Android Universal APK • [AAB Bundle](https://github.com/unytco/circulo/releases/download/v0.0.1/app-universal-release.aab)
 
 </td> -->
+</tr>
+</table>
+
+### Full Arc releases
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**Windows**
+
+[MSI Installer (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_x64_windows.msi)
+
+[EXE Setup (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_x64_windows.exe)
+
+</td>
+<td width="25%" align="center">
+
+**MacOS**
+
+[Silicon (arm64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_aarch64_darwin)
+[Intel (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_x64_darwin.dmg)
+
+</td>
+<td width="25%" align="center">
+
+**Linux**
+
+[AppImage (Universal)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_amd64_linux.AppImage)
+
+[Debian Package (.deb)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_amd64_linux.deb)
+
 </tr>
 </table>
 
