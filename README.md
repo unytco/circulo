@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="src-tauri/icons/circulo-logo.svg" alt="Circulo" width="300">
+# <img src="src-tauri/icons/logo-c.svg" alt="Circulo" width="100"> <br> <span style="font-family: 'Quicksand', sans-serif; font-weight: 300;">circulo</span>
 
 ![Latest Release](https://img.shields.io/github/v/release/unytco/circulo?style=flat-square&color=blue)
 ![Downloads](https://img.shields.io/github/downloads/unytco/circulo/total?style=flat-square&color=green)
@@ -80,36 +80,36 @@ We are using software called Sentry to help track errors so we can better unders
 
 **Windows**
 
-[MSI Installer (x64)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_x64_en-US.msi)
+[MSI Installer (x64)](https://github.com/unytco/circulo/releases/download/v0.1.0/Circulo_0.1.0_x64_en-US.msi)
 
-[EXE Setup (x64)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_x64-setup.exe)
+[EXE Setup (x64)](https://github.com/unytco/circulo/releases/download/v0.1.0/Circulo_0.1.0_x64-setup.exe)
 
 </td>
 <td width="25%" align="center">
 
 **MacOS**
 
-[Silicon (arm64)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_aarch64.dmg)
+[Silicon (arm64)](https://github.com/unytco/circulo/releases/download/v0.1.0/Circulo_0.1.0_aarch64.dmg)
 
-[Intel (x64)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_x64.dmg)
+[Intel (x64)](https://github.com/unytco/circulo/releases/download/v0.1.0/Circulo_0.1.0_x64.dmg)
 
 </td>
 <td width="25%" align="center">
 
 **Linux**
 
-[AppImage (Universal)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_amd64.AppImage)
+[AppImage (Universal)](https://github.com/unytco/circulo/releases/download/v0.1.0/Circulo_0.1.0_amd64.AppImage)
 
-[Debian Package (.deb)](https://github.com/unytco/circulo/releases/download/v0.0.1/Circulo_0.0.1_amd64.deb)
+[Debian Package (.deb)](https://github.com/unytco/circulo/releases/download/v0.1.0/Circulo_0.1.0_amd64.deb)
 
 </td>
 <!-- <td width="25%" align="center">
 
 **Android**
 
-[<img src="https://img.shields.io/badge/-Download-green?style=flat-square&logoColor=white" height="35">](https://github.com/unytco/circulo/releases/download/v0.0.1/app-universal-release.apk)
+[<img src="https://img.shields.io/badge/-Download-green?style=flat-square&logoColor=white" height="35">](https://github.com/unytco/circulo/releases/download/v0.1.0/app-universal-release.apk)
 
-Android Universal APK • [AAB Bundle](https://github.com/unytco/circulo/releases/download/v0.0.1/app-universal-release.aab)
+Android Universal APK • [AAB Bundle](https://github.com/unytco/circulo/releases/download/v0.1.0/app-universal-release.aab)
 
 </td> -->
 </tr>
@@ -117,7 +117,7 @@ Android Universal APK • [AAB Bundle](https://github.com/unytco/circulo/release
 
 </div>
 
-> **Note:** Download links point to the v0.0.1 release. For the latest version, visit the [releases page](https://github.com/unytco/circulo/releases).
+> **Note:** Download links point to the v0.1.0 release. For the latest version, visit the [releases page](https://github.com/unytco/circulo/releases).
 
 ## Installation
 
