@@ -1,6 +1,6 @@
 [package]
 name = "circulo"
-version = "0.0.1"
+version = "0.1.0"
 description = "Circulo"
 authors = ["zo-el <joelulahanna@gmail.com>"]
 license = ""
