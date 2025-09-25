@@ -95,7 +95,7 @@ We are using software called Sentry to help track errors so we can better unders
 
 [AppImage](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_amd64_linux.AppImage)
 
-[Debian Package (.deb)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_amd64_linux.deb)
+[Debian (.deb)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_amd64_linux.deb)
 
 </td>
 <!-- <td width="25%" align="center">
@@ -148,7 +148,7 @@ Android Universal APK • [AAB Bundle](https://github.com/unytco/circulo/release
 
 [AppImage](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_amd64_linux.AppImage)
 
-[Debian Package (.deb)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_amd64_linux.deb)
+[Debian (.deb)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_amd64_linux.deb)
 
 </tr>
 </table>
