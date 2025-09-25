@@ -16,7 +16,7 @@
 Introduction
 </h3>
 <p>
-Circulo is a generosity oriented peer-to-peer payments system, built using the Unyt mutual credit accounting engine. 
+Circulo is a generosity oriented peer-to-peer payments system, built using the Unyt Accounting engine. 
 </p>
 <p>
 Everyone starts with an account balance of zero and a small credit limit. Your credit limit determines the max you can spend below zero. 
@@ -31,14 +31,16 @@ In Circulo, as soon as you send someone units, your account will be debited.  Ho
 By anchoring activity in the agency of the participants themselves, Circulo opens up some interesting new efficiencies and possibilities. These will get explored in more detail in future releases.
 </p>
 <p>
-To get started, <a href="https://github.com/unytco/circulo#downloads">Download</a> and Install your computer operating system's version of Circulo. 
-3. Give it a minute or two to sync with others.
-4. Share your Circulo address with the others in the community with this <a href="https://forms.gle/S7BcwJVqSFuPHKDF9">Gift Giving Form</a>.
-5. Play around with Sending and Requesting CIRC (Circulo's accounting unit) to other folks using their addresses, available in the <a href="https://docs.google.com/spreadsheets/d/19Aecwx6Rz3LLW64F3QQcVbLdsR0sfNo_51jsiNuC_YM/edit?usp=sharing">Circulo Gift Giving Sheet</a>. 
+To get started, 
+
+1. <a href="https://github.com/unytco/circulo#downloads">Download</a> and Install your computer operating system's version of Circulo. 
+2. Give it a minute or two to sync with others.
+3. Share your Circulo address with the others in the community with this <a href="https://forms.gle/S7BcwJVqSFuPHKDF9">Gift Giving Form</a>.
+4. Play around with Sending and Requesting CIRC (Circulo's accounting unit) to other folks using their addresses, available in the <a href="https://docs.google.com/spreadsheets/d/19Aecwx6Rz3LLW64F3QQcVbLdsR0sfNo_51jsiNuC_YM/edit?usp=sharing">Circulo Gift Giving Sheet</a>. 
 </p>
 
 <p>
-If you have other questions, check out the <a href="https://github.com/unytco/circulo/faq.md">FAQ</a> section.
+If you have other questions, check out the <a href="https://github.com/unytco/circulo/blob/develop/docs/faq.md">FAQ</a> section.
 </p>
 
 <h3>
@@ -180,11 +182,10 @@ Android Universal APK • [AAB Bundle](https://github.com/unytco/circulo/release
 
 ## Support
 
-- [FAQs](https://github.com/unytco/circulo/faq.md)
+- [FAQs](https://github.com/unytco/circulo/blob/develop/docs/faq.md)
 - [Share your address](https://forms.gle/S7BcwJVqSFuPHKDF9)
 - [Look up addresses](https://docs.google.com/spreadsheets/d/19Aecwx6Rz3LLW64F3QQcVbLdsR0sfNo_51jsiNuC_YM/edit?usp=sharing) 
 - [Report Issues](https://github.com/unytco/circulo/issues)
-- [Discussions](https://link-to-telegram)
 
 
 

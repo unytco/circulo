@@ -15,7 +15,7 @@ See the <a href="https://github.com/unytco/circulo#downloads">downloads section 
 <details>
 <summary><strong>What happens if I send some units and the receiver declines them, or just never accepts them?</strong></summary>
 
-Some gifts, despite the best intentions on the part of the gift giver, turn out not to be what the receiver is looking for. Kind of like that one time you gave your nephew a violin for his birthday. The fact that he never, even once, picked it up and learned to play it is his choice. In Circulo, once a gift has been given, there are no take-backs.
+Some gifts, despite the best intentions on the part of the gift giver, turn out not to be what the receiver is looking for. Kind of like that one time you gave your nephew a violin for his birthday. The fact that he never - even once - picked it up and learned to play, is his choice. In Circulo, once a gift has been given, there are no take-backs.
 </details>
 <details>
 <summary><strong>I got an error, what should I do?</strong></summary>
@@ -24,5 +24,5 @@ Everybody has problems. We actually want to hear about yours. At least the ones 
 
 You can save the others for your therapist.
 
-If you stumble across something that isn't working, see if somebody else has pointed on the problem in our <a href="https://github.com/unytco/circulo/issues">Github Issues</a>. If not, please let us know about it by creating an issue there yourself. (You will need a Github account to do that. If you don't already have one, don't fret. Signing up is easy and free.) 
+If you stumble across something that isn't working, see if somebody else has pointed out the problem in our <a href="https://github.com/unytco/circulo/issues">Github Issues</a>. If not, please let us know about it by creating an issue there yourself. (You will need a Github account to do that. If you don't already have one, don't fret. [Signing up](https://github.com/login) is easy and free.) 
 </details>
