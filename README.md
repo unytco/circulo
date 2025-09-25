@@ -59,17 +59,17 @@ We are using software called Sentry to help track errors so we can better unders
 
 </div>
 
-## Downloads
+## Downloads Zero Arc releases
 
 <div align="center">
-
-### Zero Arc releases
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-**Windows**
+### **Windows**
+
+---
 
 [MSI Installer (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_x64_windows.msi)
 
@@ -78,15 +78,20 @@ We are using software called Sentry to help track errors so we can better unders
 </td>
 <td width="25%" align="center">
 
-**MacOS**
+### **MacOS**
+
+---
 
 [Silicon (arm64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_aarch64_darwin)
+
 [Intel (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_x64_darwin.dmg)
 
 </td>
 <td width="25%" align="center">
 
-**Linux**
+### **Linux**
+
+---
 
 [AppImage (Universal)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_zero-arc_0.0.2_amd64_linux.AppImage)
 
@@ -105,13 +110,19 @@ Android Universal APK • [AAB Bundle](https://github.com/unytco/circulo/release
 </tr>
 </table>
 
-### Full Arc releases
+</div>
+
+## Download Full Arc releases
+
+<div align="center">
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-**Windows**
+### **Windows**
+
+---
 
 [MSI Installer (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_x64_windows.msi)
 
@@ -120,15 +131,20 @@ Android Universal APK • [AAB Bundle](https://github.com/unytco/circulo/release
 </td>
 <td width="25%" align="center">
 
-**MacOS**
+### **MacOS**
+
+---
 
 [Silicon (arm64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_aarch64_darwin)
+
 [Intel (x64)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_x64_darwin.dmg)
 
 </td>
 <td width="25%" align="center">
 
-**Linux**
+### **Linux**
+
+---
 
 [AppImage (Universal)](https://github.com/unytco/circulo/releases/download/v0.0.2/Circulo_0.0.2_amd64_linux.AppImage)
 
