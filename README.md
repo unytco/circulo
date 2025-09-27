@@ -10,8 +10,11 @@
 </div>
 <div align="left">
 <h3>
-
+WE'VE PAUSED TESTING OF CIRCULO
 </h3>
+<p>
+As we had intended, we've pushed this "chatty" version of Circulo to its limits and are all wrapped up on testing for this release. Thanks to the dozens and dozens of people that have played around with the app. If you've encountered issues that you don't already see mentioned, please add them as <a href="https://github.com/unytco/circulo/issues">issues</a>.
+</p>
 <h3> 
 Introduction
 </h3>
